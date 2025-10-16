@@ -1,0 +1,15 @@
+ 00:53:14 up  2:18,  4 users,  load average: 0.48, 0.86, 1.06
+               total        used        free      shared  buff/cache   available
+Mem:           3.2Gi       2.3Gi       362Mi        11Mi       364Mi       915Mi
+Swap:          3.7Gi       1.0Gi       2.7Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           326M  2.3M  324M   1% /run
+/dev/sda2        25G   12G   12G  50% /
+tmpfs           1.6G     0  1.6G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.6G  1.5M  1.6G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           326M  120K  326M   1% /run/user/1000
+tmpfs           326M   76K  326M   1% /run/user/1002
+------------------------
